@@ -41,3 +41,6 @@ int main()
 	printf("Resultado: %d",finAns);
 	return 0;
 } 
+
+
+//Me quede trabado con un apuntador profeeeee T-T  !!!!

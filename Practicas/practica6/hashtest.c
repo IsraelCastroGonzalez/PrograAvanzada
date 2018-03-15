@@ -60,6 +60,7 @@ static char * allTests() {
   muRunTest(testHashInit);
   muRunTest(testHashInsert);
   muRunTest(testHashGet);
+  muRunTest(testHashUpsert);
   return 0;
 }
 
