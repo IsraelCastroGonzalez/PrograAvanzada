@@ -30,3 +30,4 @@ _OK... i have now like 3 hours to finish this and i still have no progress at al
 
 ---
 
+YAY! I got some help from a Friend called Edgar and we solved this, we still need a library or something to change the size or the color of the words, in the mean while here is some code
