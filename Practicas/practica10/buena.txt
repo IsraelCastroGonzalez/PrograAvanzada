@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main(){
+    int character;
+    //fgetc = LEE/REGRESA ARACTER DEL STRING Y 
+    //SE MUEVE AL SIGUIENTE CARACTER
+
+
+    while(1){
+        character = fgetc(stdin);
+        if(feof(stdin)){
+            break;
+        }
+        fputc(character,stdout);
+        fprintf(stderr, "Character = %c\n", character);
+        //fputc = IMPRIME A PANTALLA
+    }
+    return 0;
+
+}
