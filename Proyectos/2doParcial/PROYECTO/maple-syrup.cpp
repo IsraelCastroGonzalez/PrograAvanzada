@@ -6,8 +6,6 @@
 
 #define MAXN 1000
 
-using namespace std;
-
 typedef long double ld;
 
 pair<int, int> rh[MAXN];
